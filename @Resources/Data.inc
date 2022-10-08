@@ -1,6 +1,11 @@
 [Variables]
-Item1=Foo
-Item2=_
-Item3=_
-Item4=_
-Item5=_
+Text1=_
+Text2=_
+Text3=_
+Text4=_
+Text5=_
+Box1=0
+Box2=0
+Box3=0
+Box4=0
+Box5=0
